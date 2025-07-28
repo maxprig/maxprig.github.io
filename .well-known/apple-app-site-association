@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [
+            {
+                "appID": "C4C3N2277L.debug.bazar.app",
+                "paths": [
+                    "/post/*",
+                    "/profile/*",
+                    "/auth/*"
+                ]
+            }
+        ]
+    }
+}
